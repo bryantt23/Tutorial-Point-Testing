@@ -5,7 +5,9 @@ import org.junit.runners.Suite;
 
 @Suite.SuiteClasses({
    TestJunit1.class,
-   TestJunit2.class
+   TestJunit2.class,
+   TestSquare.class,
+   TestCountA.class
 })
 
 public class JunitTestSuite {   
